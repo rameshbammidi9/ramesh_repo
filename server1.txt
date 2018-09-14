@@ -6,3 +6,5 @@ hello
 world
 again master brach now
 
+going back to master from slave
+
