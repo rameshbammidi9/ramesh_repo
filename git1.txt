@@ -4,3 +4,6 @@ hello git1
 how are you git1
 I am fine
 
+
+now moving to slave branch
+
