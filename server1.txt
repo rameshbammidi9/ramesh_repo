@@ -8,8 +8,3 @@ again master brach now
 
 going back to master from slave
 INDIA
-SERVER1
-MIXED means merge
-
-
-
