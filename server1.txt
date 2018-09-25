@@ -1,0 +1,12 @@
+This is server1
+add line2
+add line3
+this is slave branch data
+hello
+world
+again master brach now
+
+going back to master from slave
+INDIA
+adding to GITHUB
+
