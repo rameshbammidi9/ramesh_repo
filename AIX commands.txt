@@ -1,3 +1,7 @@
 lsvg  --- To check VG names
 lspv  --- To check hdisknames
 lscfg --- TO check serial number of storage from where disk is coming  
+
+
+
+hahahaha
